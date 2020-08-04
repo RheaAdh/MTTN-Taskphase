@@ -1,0 +1,15 @@
+body{
+	background: #ef32d9;
+	background: -webkit-linear-gradient(to right, #89fffd, #ef32d9); 
+	background: linear-gradient(to right, #89fffd, #ef32d9);  
+	color: black;
+	font-family: Fredoka One;
+}
+
+.key:hover{
+	color: white;
+	font-family: Fredoka One;
+}
+.key:active :visited{
+    color:black;
+}
